@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="container bg-red-100 h-screen mx-auto">
+      <div className="container bg-red-100 mx-auto">
         <div className="flex justify-center items-center h-full">
           <div className=" bg-gray-300">
             <SearchApp />
